@@ -11,7 +11,5 @@ Bu alanda yeni olanlar için bazı temel konular üzerinden hızlıca geçmek i�
 ## Teşekkür 🙏
 Coursera [DeepLearning.ai](https://www.deeplearning.ai/) derslerinde notasyonu temel alarak hazırlanmıştır. Bu dersi yayınlayan ekibe çokça teşekkür ederim. 
 
-** 🏅Ancak bu derslere Türkçe alt yazı ekleme ortak çalışması ile Türkiye'de derslerin takip edilmesine ve alanda gelişmeye katkı sağladığı için** 
-
-**[Deep Learning Türkiye](https://medium.com/deep-learning-turkiye/t%C3%BCrk%C3%A7e-altyaz%C4%B1l%C4%B1-yapay-zeka-ve-derin-%C3%B6%C4%9Frenme-kursu-deeplearning-ai-85d60f4f29d7) üyelerine de çok teşekkürler.**
+** 🏅Ancak bu derslere Türkçe alt yazı ekleme ortak çalışması ile Türkiye'de derslerin takip edilmesine ve alanda gelişmeye katkı sağladığı için [Deep Learning Türkiye](https://medium.com/deep-learning-turkiye/t%C3%BCrk%C3%A7e-altyaz%C4%B1l%C4%B1-yapay-zeka-ve-derin-%C3%B6%C4%9Frenme-kursu-deeplearning-ai-85d60f4f29d7) üyelerine de çok teşekkürler.**
 
