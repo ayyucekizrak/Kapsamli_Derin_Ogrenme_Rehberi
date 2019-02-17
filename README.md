@@ -15,4 +15,4 @@ Coursera [DeepLearning.ai](https://www.deeplearning.ai/) derslerinde notasyonu t
 
 **[Deep Learning Türkiye](https://medium.com/deep-learning-turkiye/t%C3%BCrk%C3%A7e-altyaz%C4%B1l%C4%B1-yapay-zeka-ve-derin-%C3%B6%C4%9Frenme-kursu-deeplearning-ai-85d60f4f29d7) üyelerine de çok teşekkürler.**
 
-# [KAPSAMLI DERİN ÖĞRENME REHBERİ]()
+# [KAPSAMLI DERİN ÖĞRENME REHBERİ](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Python%20Numpy%20Giris/ilkadim.ipynb)
