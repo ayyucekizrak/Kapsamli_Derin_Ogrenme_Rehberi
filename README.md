@@ -1,8 +1,8 @@
 #KAPSAMLI DERİN ÖĞRENME REHBERİ
 
-- **[Google Colab Not Defteri](https://colab.research.google.com/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb) 📌
+- **[Google Colab Not Defteri](https://colab.research.google.com/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb)** 📌
 
-- **[Jupyter Not Defteri](https://nbviewer.jupyter.org/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb) 📌
+- **[Jupyter Not Defteri](https://nbviewer.jupyter.org/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb)** 📌
 
 ---
 
