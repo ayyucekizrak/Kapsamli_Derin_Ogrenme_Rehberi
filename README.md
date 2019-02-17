@@ -1,4 +1,4 @@
-# [KAPSAMLI DERİN ÖĞRENME REHBERİ](https://colab.research.google.com/github.com/drive/1qauCMUeQ0dgPEmh7Xac3YtHPnrAKKsHN#scrollTo=bQXUG3Qk7Mvi) 📌 
+# [KAPSAMLI DERİN ÖĞRENME REHBERİ](https://colab.research.google.com/github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb) 📌 
 **Colab'ta açmak için bağlantıyı ziyaret ediniz!**
 
 ---
