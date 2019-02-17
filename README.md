@@ -1,4 +1,4 @@
-# Kapsamlı_Derin_Öğrenme_Rehberi
+# [KAPSAMLI DERİN ÖĞRENME REHBERİ](https://colab.research.google.com/github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb)
 Bu çalışma araştırmalar yaparken benzerlerine rastlayıp iyileştirerek derlemeye çalıştığım ve derin öğrenme (deep learning) konusunda kısa bir özet ve bolca kaynak yönlendirmesi olan (hatta sonunda koca bir liste var) hızlıca konuya giriş yapılabilinmesi için gereklilikleri özetlemektedir. Lütfen katkı vermekten çekinmeyin 👽
 
 
@@ -15,4 +15,3 @@ Coursera [DeepLearning.ai](https://www.deeplearning.ai/) derslerinde notasyonu t
 
 **[Deep Learning Türkiye](https://medium.com/deep-learning-turkiye/t%C3%BCrk%C3%A7e-altyaz%C4%B1l%C4%B1-yapay-zeka-ve-derin-%C3%B6%C4%9Frenme-kursu-deeplearning-ai-85d60f4f29d7) üyelerine de çok teşekkürler.**
 
-# COLAB'ta açmak için: [KAPSAMLI DERİN ÖĞRENME REHBERİ (https://colab.research.google.com/github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb)
