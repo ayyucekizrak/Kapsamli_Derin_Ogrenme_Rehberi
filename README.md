@@ -1,4 +1,5 @@
-# [KAPSAMLI DERİN ÖĞRENME REHBERİ](https://colab.research.google.com/github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb) Colab'ta açmak için bağlantıyı ziyaret ediniz! 📌 
+📌 # [KAPSAMLI DERİN ÖĞRENME REHBERİ](https://colab.research.google.com/github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb) 
+Colab'ta açmak için bağlantıyı ziyaret ediniz!  
 Bu çalışma araştırmalar yaparken benzerlerine rastlayıp iyileştirerek derlemeye çalıştığım ve derin öğrenme (deep learning) konusunda kısa bir özet ve bolca kaynak yönlendirmesi olan (hatta sonunda koca bir liste var) hızlıca konuya giriş yapılabilinmesi için gereklilikleri özetlemektedir. Lütfen katkı vermekten çekinmeyin 👽
 
 
