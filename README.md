@@ -1,7 +1,6 @@
-# [KAPSAMLI DERİN ÖĞRENME REHBERİ](https://colab.research.google.com/github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb) 📌 
+# [KAPSAMLI DERİN ÖĞRENME REHBERİ](https://github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb)
 
-[KAPSAMLI DERİN ÖĞRENME REHBERİ- Google Colab Notebook](https://colab.research.google.com/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb)
-**Colab'ta açmak için bağlantıyı ziyaret ediniz!**
+## [KAPSAMLI DERİN ÖĞRENME REHBERİ- Google Colab Notebook](https://colab.research.google.com/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb) 📌 
 
 ---
 
