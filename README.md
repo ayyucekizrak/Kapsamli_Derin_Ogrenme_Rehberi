@@ -6,7 +6,7 @@
 
 📌 **Jupyter Not Defteri** 
 
-[![Open In Jupyter](https://nbviewer.jupyter.org/assets/jupyter-badge.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb)
+[![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb)
 
 ---
 
