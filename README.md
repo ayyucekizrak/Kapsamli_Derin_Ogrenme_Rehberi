@@ -1,8 +1,8 @@
 # KAPSAMLI DERİN ÖĞRENME REHBERİ
 
-📌 **Google Colab Not Defteri** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb)
+📌 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb) **Google Colab Not Defteri** 
 
-📌 **Jupyter Not Defteri** [![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb)
+📌 [![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb) **Jupyter Not Defteri** 
 
 ---
 
