@@ -18,7 +18,7 @@ Bu alanda yeni olanlar için bazı temel konular üzerinden hızlıca geçmek i�
 ## Teşekkür 🙏
 Coursera [DeepLearning.ai](https://www.deeplearning.ai/) derslerinde notasyonu temel alarak hazırlanmıştır. Bu dersi yayınlayan ekibe çokça teşekkür ederim. 
 
-## 🏅Ayrıca **Stanford Üniversitesi** [CS229 - Machine Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-deep-learning) ve [CS230 - Deep Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-230/cheatsheet-convolutional-neural-networks) derslerini birlikte çevirerek Türkçe olarak takip edilmesine katkı sağladığımız,  arkadaşlarım [Başak Buluz](https://tr.linkedin.com/in/basak-buluz-62800088) ve [Yavuz Kömeçoğlu](https://yavuzkomecoglu.github.io/)'na teşekkür ederim.' 
+ 🏅Ayrıca **Stanford Üniversitesi** [CS229 - Machine Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-deep-learning) ve [CS230 - Deep Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-230/cheatsheet-convolutional-neural-networks) derslerini birlikte çevirerek Türkçe olarak takip edilmesine katkı sağladığımız,  arkadaşlarım **[Başak Buluz](https://tr.linkedin.com/in/basak-buluz-62800088) ve [Yavuz Kömeçoğlu](https://yavuzkomecoglu.github.io/)**'na teşekkür ederim.' 
 
 
 <img align="left" src="https://github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/kapak.jpg">
