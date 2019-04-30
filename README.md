@@ -1,8 +1,8 @@
 # KAPSAMLI DERİN ÖĞRENME REHBERİ
 
-📌 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb) **Google Colab Not Defteri** 
+📌 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsamlı_Derin_Öğrenme_Rehberi.ipynb) **Google Colab Not Defteri** 
 
-📌 [![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsaml%C4%B1_Derin_%C3%96%C4%9Frenme_Rehberi.ipynb) **Jupyter Not Defteri** 
+📌 [![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsamlı_Derin_Öğrenme_Rehberi.ipynb) **Jupyter Not Defteri** 
 
 ---
 
@@ -18,6 +18,7 @@ Bu alanda yeni olanlar için bazı temel konular üzerinden hızlıca geçmek i�
 ## Teşekkür 🙏
 Coursera [DeepLearning.ai](https://www.deeplearning.ai/) derslerinde notasyonu temel alarak hazırlanmıştır. Bu dersi yayınlayan ekibe çokça teşekkür ederim. 
 
-### 🏅Ancak bu derslere Türkçe alt yazı ekleme ortak çalışması ile Türkiye'de derslerin takip edilmesine ve alanda gelişmeye katkı sağladığı için [Gönüllü olarak Türkçe altyazı ekleme çalışmalarına katılanlara](https://medium.com/deep-learning-turkiye/t%C3%BCrk%C3%A7e-altyaz%C4%B1l%C4%B1-yapay-zeka-ve-derin-%C3%B6%C4%9Frenme-kursu-deeplearning-ai-85d60f4f29d7) da çok teşekkürler.
+## 🏅Ayrıca **Stanford Üniversitesi** [CS229 - Machine Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-deep-learning) ve [CS230 - Deep Learning](https://stanford.edu/~shervine/l/tr/teaching/cs-230/cheatsheet-convolutional-neural-networks) derslerini birlikte çevirerek Türkçe olarak takip edilmesine katkı sağladığımız,  arkadaşlarım [Başak Buluz](https://tr.linkedin.com/in/basak-buluz-62800088) ve [Yavuz Kömeçoğlu](https://yavuzkomecoglu.github.io/)'na teşekkür ederim.' 
+
 
 <img align="left" src="https://github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/kapak.jpg">
