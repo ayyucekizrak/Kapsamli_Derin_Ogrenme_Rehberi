@@ -2,7 +2,6 @@
 
 📌 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsamlı_Derin_Öğrenme_Rehberi.ipynb) **Google Colab Not Defteri** 
 
-📌 [![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi/blob/master/Kapsamlı_Derin_Öğrenme_Rehberi.ipynb) **Jupyter Not Defteri** 
 
 ---
 
